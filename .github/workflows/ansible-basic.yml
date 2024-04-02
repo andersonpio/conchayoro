@@ -1,4 +1,4 @@
-name: Ansible basic
+name: Ansible basic 
 on: workflow_dispatch
 jobs:
   ansible-version:
