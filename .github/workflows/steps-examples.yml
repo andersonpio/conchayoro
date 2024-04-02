@@ -1,7 +1,5 @@
 name: steps examples
-
 on: workflow_dispatch
-
 #jobs:
   marketplace:
     runs-on: ubuntu-latest
