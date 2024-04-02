@@ -1,6 +1,6 @@
 name: integracao-ecr-eb
 
-on:
+on:workflow_dispatch 
   push:
     branches: [ main ]
 
